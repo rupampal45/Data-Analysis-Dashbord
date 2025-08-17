@@ -63,5 +63,5 @@ The dataset contains Walmart sales transactions with the following key fields:
 https://github.com/rupampal45/Data-Analysis-Dashbord/blob/main/Screenshot%202025-08-17%20175115.png
 
 # 📂 Files Included
-Power BI dashboard file - 
+Power BI dashboard file - Walmart%20Sales%20Dashbo%EF%BB%BFard.pbit
 Dataset used for building the dashboard -
