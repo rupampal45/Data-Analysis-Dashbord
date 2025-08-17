@@ -55,3 +55,4 @@ The dataset contains Walmart sales transactions with the following key fields:
 ✔️ Payment Analysis – Popular payment methods
 
 # 📷 Dashboard Preview
+https://github.com/rupampal45/Data-Analysis-Dashbord/blob/main/Screenshot%202025-08-17%20175115.png
