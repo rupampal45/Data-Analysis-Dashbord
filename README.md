@@ -48,10 +48,15 @@ The dataset contains Walmart sales transactions with the following key fields:
 
 # 📊 Dashboard Features
 ✔️ Sales Summary KPIs – Total sales, gross income, and revenue breakdown
+
 ✔️ Branch & City Analysis – Compare performance across different locations
+
 ✔️ Product Line Insights – Identify top-selling categories
+
 ✔️ Customer Insights – Gender & membership-based purchase patterns
+
 ✔️ Time Series Analysis – Daily, monthly, and yearly sales trends
+
 ✔️ Payment Analysis – Popular payment methods
 
 # 📷 Dashboard Preview
